@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="home-page-laptop">
+      <div class="navbar">
+        <img class="logo-icon" alt="" src="./public/logo.svg" />
+
+        <div class="button">
+          <div class="text">Connect Wallet</div>
+        </div>
+        <div class="buttons-container">
+          <div class="button1">
+            <div class="text1">Home</div>
+          </div>
+          <div class="text">Services</div>
+          <div class="text">Work</div>
+          <div class="text">Process</div>
+          <div class="text">About</div>
+          <div class="text">Careers</div>
+        </div>
+      </div>
+      <div class="hero-section">
+        <div class="container">
+          <div class="sub-container">
+            <div class="heading">LendOne Protocol</div>
+            <div class="container1">
+              <div class="text2">For</div>
+              <div class="text-container">
+                <div class="text2">Startups</div>
+              </div>
+              <div class="text2">,</div>
+              <div class="text-container">
+                <div class="text2">Enterprise leaders</div>
+              </div>
+              <div class="text2">,</div>
+              <div class="text-container">
+                <div class="text2">Media & Publishers</div>
+              </div>
+              <div class="text2">and</div>
+              <div class="text-container">
+                <div class="text2">Social Good</div>
+              </div>
+            </div>
+          </div>
+          <div class="buttons-container1">
+            <div class="button2">
+              <div class="text10">Our Works</div>
+            </div>
+            <div class="button3">
+              <div class="text10">Let’s Start -&gt;</div>
+            </div>
+          </div>
+        </div>
+        <img
+          class="abstract-design-icon"
+          alt=""
+          src="./public/abstract-design.svg"
+        />
+      </div>
+      <div class="our-services-section">
+        <div class="text-container4">
+          <div class="heading">Our Services</div>
+          <div class="paragraph">
+            Transform your brand with our innovative digital solutions that
+            captivate and engage your audience.
+          </div>
+        </div>
+        <div class="container2">
+          <div class="card">
+            <div class="container3">
+              <div class="icon">
+                <img class="icon1" alt="" src="./public/icon.svg" />
+              </div>
+              <div class="text-container5">
+                <div class="heading2">Borrowing Assets</div>
+                <div class="paragraph1">
+                  At Squareup, our design team is passionate about creating
+                  stunning, user-centric designs that captivate your audience
+                  and elevate your brand. We believe that great design is not
+                  just about aesthetics; it's about creating seamless and
+                  intuitive user experiences.
+                </div>
+              </div>
+            </div>
+            <div class="button4">
+              <div class="text12">Learn More</div>
+            </div>
+          </div>
+          <div class="line"></div>
+          <div class="card">
+            <div class="container3">
+              <div class="icon2">
+                <img class="icon1" alt="" src="./public/icon1.svg" />
+              </div>
+              <div class="text-container5">
+                <div class="heading2">Smart Analytics</div>
+                <div class="paragraph1">
+                  Our engineering team combines technical expertise with a
+                  passion for innovation to build robust and scalable digital
+                  solutions. We leverage the latest technologies and best
+                  practices to deliver high-performance applications tailored to
+                  your specific needs.
+                </div>
+              </div>
+            </div>
+            <div class="button4">
+              <div class="text12">Learn More</div>
+            </div>
+          </div>
+          <div class="line1"></div>
+          <div class="card2">
+            <div class="container3">
+              <div class="icon2">
+                <img class="icon5" alt="" src="./public/icon2.svg" />
+              </div>
+              <div class="text-container5">
+                <div class="heading2">Reputation based Loans</div>
+                <div class="paragraph1">
+                  Our experienced project management team ensures that your
+                  projects are delivered on time, within budget, and according
+                  to your specifications. We follow industry-standard
+                  methodologies and employ effective communication and
+                  collaboration tools to keep you informed throughout the
+                  development process.
+                </div>
+              </div>
+            </div>
+            <div class="button4">
+              <div class="text12">Learn More</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="why-choose-us-section">
+        <div class="text-container8">
+          <div class="heading">Why Choose SquareUp?</div>
+          <div class="paragraph">
+            Experience excellence in digital craftsmanship with our team of
+            skilled professionals dedicated to delivering exceptional results.
+          </div>
+        </div>
+        <div class="container6">
+          <div class="sub-container1">
+            <div class="card3">
+              <div class="container7">
+                <div class="icon">
+                  <img class="icon5" alt="" src="./public/icon3.svg" />
+                </div>
+                <div class="heading6">
+                  On-chain Social Profiles as Collateral
+                </div>
+              </div>
+              <div class="paragraph1">
+                Our team consists of highly skilled professionals who have a
+                deep understanding of the digital landscape. We stay updated
+                with the latest industry trends and best practices to deliver
+                cutting-edge solutions.
+              </div>
+            </div>
+            <div class="line2"></div>
+            <div class="card3">
+              <div class="container7">
+                <div class="icon">
+                  <img class="icon1" alt="" src="./public/icon4.svg" />
+                </div>
+                <div class="heading6">Reputation-Based Borrowing</div>
+              </div>
+              <div class="paragraph1">
+                We prioritize our clients and their unique needs. We listen to
+                your ideas, challenges, and goals, and tailor our services to
+                meet your specific requirements. Your success is our success.
+              </div>
+            </div>
+          </div>
+          <div class="line3"></div>
+          <div class="sub-container1">
+            <div class="card3">
+              <div class="container7">
+                <div class="icon">
+                  <img class="icon5" alt="" src="./public/icon5.svg" />
+                </div>
+                <div class="heading6">Enhanced Borrower Incentives</div>
+              </div>
+              <div class="paragraph1">
+                Our primary focus is on delivering results. We combine
+                creativity and technical expertise to create digital products
+                that drive business growth, enhance user experiences, and
+                provide a competitive advantage.
+              </div>
+            </div>
+            <div class="line2"></div>
+            <div class="card3">
+              <div class="container7">
+                <div class="icon">
+                  <img class="icon1" alt="" src="./public/icon6.svg" />
+                </div>
+                <div class="heading6">Social Credit Scoring</div>
+              </div>
+              <div class="paragraph1">
+                We value long-term relationships with our clients. We see
+                ourselves as your digital partner, providing ongoing support,
+                maintenance, and updates to ensure your digital products
+                continue to thrive.
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="faq-section">
+        <div class="text-container9">
+          <div class="heading">Frequently Asked Questions</div>
+          <div class="paragraph1">
+            Still you have any questions? Contact our Team via
+            hello@squareup.com
+          </div>
+        </div>
+        <div class="container11">
+          <div class="items-container">
+            <div class="line5"></div>
+            <div class="faq-item-open">
+              <div class="container12">
+                <div class="number">01</div>
+              </div>
+              <div class="text-container10">
+                <div class="sub-container3">
+                  <div class="heading10">What is LendOne?</div>
+                  <img class="icon14" alt="" src="./public/icon7.svg" />
+                </div>
+                <div class="paragraph9">
+                  LendOne is a decentralized finance (DeFi) lending protocol
+                  that uses on-chain social profiles as collateral for borrowing
+                  assets within the blockchain ecosystem.
+                </div>
+              </div>
+            </div>
+            <div class="line5"></div>
+            <div class="faq-item">
+              <div class="container12">
+                <div class="number">02</div>
+              </div>
+              <div class="heading11">How does LendOne work?</div>
+              <img class="icon14" alt="" src="./public/icon8.svg" />
+            </div>
+            <div class="line5"></div>
+            <div class="faq-item">
+              <div class="container12">
+                <div class="number">03</div>
+              </div>
+              <div class="heading11">
+                What sets LendOne apart from other lending protocols?
+              </div>
+              <img class="icon14" alt="" src="./public/icon9.svg" />
+            </div>
+            <div class="line5"></div>
+            <div class="faq-item">
+              <div class="container12">
+                <div class="number">04</div>
+              </div>
+              <div class="heading11">
+                What happens if a user fails to repay a loan on LendOne?
+              </div>
+              <img class="icon14" alt="" src="./public/icon10.svg" />
+            </div>
+            <div class="line5"></div>
+          </div>
+          <div class="line1"></div>
+          <div class="items-container">
+            <div class="line5"></div>
+            <div class="faq-item">
+              <div class="container12">
+                <div class="number">05</div>
+              </div>
+              <div class="heading11">
+                How is the reputation score calculated on LendOne?
+              </div>
+              <img class="icon14" alt="" src="./public/icon11.svg" />
+            </div>
+            <div class="line5"></div>
+            <div class="faq-item">
+              <div class="container12">
+                <div class="number">06</div>
+              </div>
+              <div class="heading11">
+                Is there any system in place to prevent fraudulent activities or
+                misuse?
+              </div>
+              <img class="icon14" alt="" src="./public/icon12.svg" />
+            </div>
+            <div class="line5"></div>
+            <div class="faq-item">
+              <div class="container12">
+                <div class="number">07</div>
+              </div>
+              <div class="heading11">
+                Can users maintain access to their social profiles while using
+                them as collateral on LendOne?
+              </div>
+              <img class="icon14" alt="" src="./public/icon13.svg" />
+            </div>
+            <div class="line5"></div>
+            <div class="faq-item">
+              <div class="container12">
+                <div class="number">08</div>
+              </div>
+              <div class="heading11">
+                What technologies or components support LendOne's functionality?
+              </div>
+              <img class="icon14" alt="" src="./public/icon14.svg" />
+            </div>
+            <div class="line5"></div>
+          </div>
+        </div>
+      </div>
+      <div class="contact-section">
+        <div class="container20">
+          <img class="logo-icon1" alt="" src="./public/logo1.svg" />
+
+          <div class="text-container11">
+            <div class="heading">Thank you for your Interest in LandOne.</div>
+            <div class="paragraph1">
+              We would love to hear from you and discuss how we can help bring
+              your digital ideas to life. Here are the different ways you can
+              get in touch with us.
+            </div>
+          </div>
+          <div class="button7">
+            <div class="text">Start Project</div>
+          </div>
+        </div>
+      </div>
+      <div class="footer-section">
+        <div class="container21">
+          <img class="logo-icon" alt="" src="./public/logo2.svg" />
+
+          <div class="sub-container4">
+            <div class="text">Stay Connected</div>
+            <div class="buttons-container2">
+              <div class="button8">
+                <img class="icon22" alt="" src="./public/icon15.svg" />
+              </div>
+              <div class="button8">
+                <img class="icon22" alt="" src="./public/icon16.svg" />
+              </div>
+              <div class="button8">
+                <img class="icon22" alt="" src="./public/icon17.svg" />
+              </div>
+            </div>
+          </div>
+          <div class="buttons-container3">
+            <div class="text">Home</div>
+            <div class="text">Services</div>
+            <div class="text">Work</div>
+            <div class="text">Process</div>
+            <div class="text">About</div>
+            <div class="text">Careers</div>
+            <div class="text">Contact</div>
+          </div>
+        </div>
+        <div class="line5"></div>
+        <div class="container22">
+          <div class="sub-container5">
+            <div class="button11">
+              <img class="icon22" alt="" src="./public/icon18.svg" />
+
+              <div class="text-button12">hello@squareup.com</div>
+            </div>
+            <div class="button11">
+              <img class="icon22" alt="" src="./public/icon19.svg" />
+
+              <div class="text-button12">+91 91813 23 2309</div>
+            </div>
+            <div class="button11">
+              <img class="icon22" alt="" src="./public/icon20.svg" />
+
+              <div class="text-button12">Somewhere in the World</div>
+            </div>
+          </div>
+          <div class="text17">© 2023 SquareUp. All rights reserved.</div>
+        </div>
+      </div>
+      <img class="image-1-icon" alt="" src="./public/image-1@2x.png" />
+
+      <img class="image-2-icon" alt="" src="./public/image-2@2x.png" />
+
+      <img class="image-3-icon" alt="" src="./public/image-3@2x.png" />
+
+      <img class="image-4-icon" alt="" src="./public/image-4@2x.png" />
+
+      <img class="image-5-icon" alt="" src="./public/image-5@2x.png" />
+
+      <img class="image-6-icon" alt="" src="./public/image-6@2x.png" />
+
+      <img class="image-7-icon" alt="" src="./public/image-7@2x.png" />
+
+      <img class="image-8-icon" alt="" src="./public/image-8@2x.png" />
+
+      <img class="image-9-icon" alt="" src="./public/image-9@2x.png" />
+
+      <img class="image-9-icon" alt="" src="./public/image-11@2x.png" />
+
+      <img class="image-9-icon" alt="" src="./public/image-12@2x.png" />
+
+      <img class="image-10-icon" alt="" src="./public/image-10@2x.png" />
+
+      <div class="sub-container6">
+        <div class="text18">Trusted By more than 7+ web3 Startups</div>
+      </div>
+      <div class="home-page-laptop-child"></div>
+      <div class="home-page-laptop-item"></div>
+      <div class="home-page-laptop-inner"></div>
+      <div class="rectangle-div"></div>
+      <div class="home-page-laptop-child1"></div>
+      <div class="borrow">BORROW</div>
+      <div class="borrow1">BORROW</div>
+      <div class="borrow2">BORROW</div>
+      <div class="borrow3">BORROW</div>
+      <div class="line-div"></div>
+      <div class="home-page-laptop-child2"></div>
+      <div class="home-page-laptop-child3"></div>
+      <div class="home-page-laptop-child4"></div>
+      <div class="home-page-laptop-child5"></div>
+      <div class="line-div"></div>
+      <div class="dai">DAI</div>
+      <div class="eth">ETH</div>
+      <div class="matic">MATIC</div>
+      <div class="usdt">USDT</div>
+    </div>
+  </body>
+</html>

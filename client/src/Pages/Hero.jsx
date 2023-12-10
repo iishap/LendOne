@@ -49,7 +49,7 @@ const Hero = () => {
             </p>
           </button>
           <div className="text-white text-4xl font-semibold mx-4 my-2 ">
-         zkEVM, Arbitrium, Celo, Mantle, Filecoin, Scroll, Base, XDC, OKX, ZetaChain
+         zkEVM, Arbitrium, Celo, Mantle, Filecoin, Scroll, Base, XDC, OKX, Linea, ZetaChain
         </div>
         </div>
       </div>

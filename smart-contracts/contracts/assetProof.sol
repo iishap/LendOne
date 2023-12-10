@@ -1,14 +1,14 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.17;
 
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/access/Ownable.sol";
+import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract AssetProof is ERC721Enumerable, Ownable {
     
     uint256 private tokenIdCounter;
 
-    constructor(address initialOwner) ERC721("AssetProof", "ASPF") Ownable(initialOwner) {
+    constructor() ERC721("AssetProof", "ASPF")  {
         tokenIdCounter = 1;
     }
 

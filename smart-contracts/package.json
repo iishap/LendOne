@@ -30,6 +30,8 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.1",
-    "dotenv": "^16.0.3"
+    "@zetachain/addresses-tools": "^0.0.8",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security"
   }
 }
