@@ -35,3 +35,53 @@ The architecture of LendOne encompasses crucial components:
 - **Social Credit Scoring:** Utilizes blockchain activity to derive an on-chain reputation score for individual users.
 - **On-Chain Reputation as Collateral:** Users deposit Lens or ENS profiles as collateral, symbolizing their value within the ecosystem.
 - **Sybil Resistant Vouching System:** Implements a robust vouching system to foster trust and prevent malicious activities within the ecosystem.
+
+
+
+" Please review Scroll Judge "
+
+
+## Deployed on
+
+*Arbitrum mainnet*
+`
+LoanContract : 0x9E7a4e8EF0A5F7949602e2Ff71dD0FFBC4F9Db91
+Asset. : 0xc81c0D879650a41d0C7A1ff588df7e11A5BFFeC4
+`
+
+*Gnosis Chain*
+`
+Main contract: 0x06a885610f0777c12125cba1470461cc4ca032af
+AssetProof: 0x6739e925c617FD8d72Ee9466439fFF7c0d5Bef8D
+`
+
+*Polygon ZkEvm Testnet:*
+`
+AssetProof: 0xdF139C6B1283514472Afc5d3e0A0D52b7f64f8Ed
+MainContract: 0x532E6Ce0763Da28346906E06C8C9922f3B5F479b
+`
+
+*Arbitrum Sepolia Testnet:*
+`
+LoanContract : 0x9E7a4e8EF0A5F7949602e2Ff71dD0FFBC4F9Db91
+AssetProof : 0xf5a672774a53872e7C6773Aa04F41a7F6c37e327
+`
+
+*Scroll Asset*
+`
+scroll asset: 0x5f3f1dBD7B74C6B46e8c44f98792A1dAf8d69154
+Loan Contract : Talked with Raza and couldn't deploy due to RPC problems
+`
+
+*Celo*
+`
+Asset: 0x0B15b524011cDF374B87Bd3ED0c844F8948B8608
+Loan Contract : 0xe8B3CB3BF75Ae25ec97942AaAce603590DE2b668
+`
+
+*Linea*
+`
+LoanContract : 0x9E7a4e8EF0A5F7949602e2Ff71dD0FFBC4F9Db91
+AssetProof : 0xc81c0D879650a41d0C7A1ff588df7e11A5BFFeC4
+`
+
